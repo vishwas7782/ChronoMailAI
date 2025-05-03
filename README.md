@@ -79,9 +79,9 @@ npm run dev
 - Working of ChronoMail AI
 ![Replying to Mail with Chronomail AI](pictures/screenshot4.png)
 - AI Reply Option
-![Replying to Mail with Chronomail AI](pictures/screenshot1.png)
+![Replying to Mail with Chronomail AI](pictures/Screenshot1.png)
 - Reply is Generated based on Sender's Tone
-![Replying to Mail with Chronomail AI](pictures/screenshot2.png)
+![Replying to Mail with Chronomail AI](pictures/Screenshot2.png)
 - Reply based on the Sender's Subject
 ![Replying to Mail with Chronomail AI](pictures/screenshot3.png)
 
