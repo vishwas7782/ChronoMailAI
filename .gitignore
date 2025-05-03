@@ -1,0 +1,39 @@
+# Node.js (email-writer-react)
+email-writer-react/node_modules/
+email-writer-react/build/
+email-writer-react/dist/
+email-writer-react/.env
+email-writer-react/.DS_Store
+
+# Spring Boot (email-writer-sb)
+email-writer-sb/target/
+email-writer-sb/.idea/
+email-writer-sb/.classpath
+email-writer-sb/.project
+email-writer-sb/.settings/
+email-writer-sb/.env
+email-writer-sb/*.iml
+
+# Chrome Extension (email-writer-ext, hello-world-ext)
+email-writer-ext/node_modules/
+email-writer-ext/dist/
+email-writer-ext/build/
+email-writer-ext/.env
+
+hello-world-ext/node_modules/
+hello-world-ext/dist/
+hello-world-ext/build/
+hello-world-ext/.env
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Archives
+email-writer-sb.zip
+
+# IntelliJ project files (optional if not using)
+*.iml
+.idea/
