@@ -75,6 +75,16 @@ npm run dev
 
 ---
 
+## 📸 Screenshots
+- Working of ChronoMail AI
+![Replying to Mail with Chronomail AI](pictures/screenshot4.png)
+- AI Reply Option
+![Replying to Mail with Chronomail AI](pictures/screenshot1.png)
+- Reply is Generated based on Sender's Tone
+![Replying to Mail with Chronomail AI](pictures/screenshot2.png)
+- Reply based on the Sender's Subject
+![Replying to Mail with Chronomail AI](pictures/screenshot3.png)
+
 ## 🧠 Powered By
 - [Google Gemini API](https://ai.google.dev/)
 - [React](https://react.dev/)
