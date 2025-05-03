@@ -1,6 +1,6 @@
 {
-    "name": "Email Writer Assitant",
-    "description": "AI-powered email reply generator",
+    "name": "ChronoMail AI- Email Assistant",
+    "description": "Smart Email Assistant powered by Gemini",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": ["activeTab", "storage"],
@@ -23,6 +23,6 @@
     }
   ],
     "action": {
-      "default_title": "Email Writer Assitant"
+      "default_title": "AI- Email Assistant"
     }
   }
