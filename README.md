@@ -30,11 +30,11 @@ ChronoMailAI is your intelligent AI email assistant designed to write, summarize
 
 ## 📁 Project Structure
 
-ChronoMailAI/
-├── email-writer-react/ # React Frontend
-├── email-writer-sb/ # Spring Boot Backend
-├── email-writer-ext/ # Chrome Extension
-├── hello-world-ext/ # Sample Extension Demo
+ChronoMailAI/<br>
+├── email-writer-react/ # React Frontend<br>
+├── email-writer-sb/ # Spring Boot Backend<br>
+├── email-writer-ext/ # Chrome Extension<br>
+├── hello-world-ext/ # Sample Extension Demo<br>
 └── email-writer-sb.zip # Zipped backend (for deployment)
 
 ---
@@ -72,11 +72,17 @@ npm run dev
 
 - Select the email-writer-ext/ folder
 
+
+---
+
 ## 🧠 Powered By
 - [Google Gemini API](https://ai.google.dev/)
 - [React](https://react.dev/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Chrome Extensions](https://developer.chrome.com/docs/extensions/)
+
+
+---
 
 ## 📌 Roadmap
  - Auto email generation
@@ -89,12 +95,17 @@ npm run dev
 
  - Personalized writing styles (tone/formal/casual)
 
+ 
+---
+
 ## 👨‍💻 Author
 
 **Vishwasjeet Kumar Gupta**  
-BTech CSE | AI Developer  
+BTech CSE | FullStack Developer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
 
+
+---
 <!-- ##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details. -->
