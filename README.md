@@ -76,6 +76,8 @@ npm run dev
 ---
 
 ## 📸 Screenshots
+- Chrome Extension
+![Replying to Mail with Chronomail AI](pictures/Screenshot5.png)
 - Working of ChronoMail AI
 ![Replying to Mail with Chronomail AI](pictures/screenshot4.png)
 - AI Reply Option
