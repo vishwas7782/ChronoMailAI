@@ -94,7 +94,7 @@ npm run dev
 **Vishwasjeet Kumar Gupta**  
 BTech CSE | AI Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeetkgupta)(https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
 
 <!-- ##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details. -->
