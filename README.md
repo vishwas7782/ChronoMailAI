@@ -90,9 +90,11 @@ npm run dev
  - Personalized writing styles (tone/formal/casual)
 
 ## 👨‍💻 Author
-**Vishwasjeet Kumar Gupta**
-**BTech CSE | AI Developer**
-[LinkedIn](https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
+
+**Vishwasjeet Kumar Gupta**  
+BTech CSE | AI Developer  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwasjeetkgupta)(https://www.linkedin.com/in/vishwasjeet-kumar-gupta-62814018a/)
 
 <!-- ##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details. -->
